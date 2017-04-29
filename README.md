@@ -1,1 +1,1 @@
-# joo9606.github.io
+# staticwebsiteskeleton.github.io
